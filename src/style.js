@@ -11,7 +11,7 @@ const styles = {
   flexEnd: "flex md:justify-end items-center",
 
   paddingX: "sm:px-16 px-6",
-  paddingY: "sm:py-16 py-6",
+  paddingY: "sm:py-10 py-6",
   padding: "sm:px-16 px-6 sm:py-12 py-4",
 
   marginX: "sm:mx-16 mx-6",

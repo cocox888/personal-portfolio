@@ -72,7 +72,7 @@ const ExperienceCard = (props) => {
           {props.organisation}
         </h4>
       </div>
-      <ol className="relative border-l border-gray-200 dark:border-gray-700 ml-6">
+      <ol className="relative border-l border-gray-200 dark:border-gray-700 ml-6 mb-20">
         {props.positions.map((position, index) => (
           <li
             key={index}

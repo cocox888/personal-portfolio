@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { close, parthmittal, menu } from "../assets";
+import { close, parthmittal, menu, robot } from "../assets";
 import { navLinks } from "../constants";
 import { scrollToSection } from "../lib/helperFunctions";
 
@@ -7,12 +7,12 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   return (
-    <nav className="w-full  flex justify-between items-center navbar">
+    <nav className="w-full  flex justify-between items-center navbar py-5">
       {/* Logo */}
       <a href="#home">
         <img
-          src={parthmittal}
-          alt="Parth Mittal"
+          src={robot}
+          alt=""
           className="w-[80px] h-[80px]"
         />
       </a>

@@ -31,9 +31,9 @@ const Hero = () => {
             <br className="sm:block hidden" /> I am
           </h1>
 
-          <div className="ss:flex hidden md:mr-4 mr-0">
+          {/* <div className="ss:flex hidden md:mr-4 mr-0">
             <LetsConnect />
-          </div>
+          </div> */}
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[80px] leading-[80px] w-full">

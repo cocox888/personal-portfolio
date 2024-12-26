@@ -589,18 +589,23 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiPhp,
-        name: "PHP"
+        icon: SiReact,
+        name: "ReactJS"
       },
       {
         id: "icon-2",
-        icon: SiJquery,
-        name: "jQuery"
+        icon: SiNodedotjs,
+        name: "NodeJS"
       },
       {
         id: "icon-3",
-        icon: SiCloudflare,
-        name: "Cloudflare"
+        icon: SiMongodb,
+        name: "Mongodb"
+      },
+      {
+        id: "icon-3",
+        icon: SiExpress,
+        name: "Express"
       },
 
     ],

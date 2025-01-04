@@ -1,6 +1,6 @@
 import styles from "../style";
 import { motion } from "framer-motion";
-import { parthmittal, robot } from "../assets";
+import { robot } from "../assets";
 
 const Loading = () => {
   return (

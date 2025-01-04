@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { close, parthmittal, menu, robot } from "../assets";
+import { close, menu, robot } from "../assets";
 import { navLinks } from "../constants";
 import { scrollToSection } from "../lib/helperFunctions";
 

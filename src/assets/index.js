@@ -1,5 +1,5 @@
 
-import profilePic from "./profile-pic.jpg";
+
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
@@ -110,7 +110,7 @@ export {
   zulip,
   cdc,
 
-  profilePic,
+
   chargeswap,
   placeicon,
   recruitment,
